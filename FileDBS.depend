@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1651573187 source:c:\users\shang\desktop\filedbs\cstringtools.c
+	"CStringTools.h"
+
+1651573100 c:\users\shang\desktop\filedbs\cstringtools.h
+	<string.h>
+	<malloc.h>
+
+1651573043 source:c:\users\shang\desktop\filedbs\filedirtools.c
+	"FileDirTools.h"
+
+1651572997 c:\users\shang\desktop\filedbs\filedirtools.h
+	<direct.h>
+	<io.h>
+	<malloc.h>
+	<string.h>
+
+1651573577 source:c:\users\shang\desktop\filedbs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"CStringTools.h"
+	"FileDirTools.h"
+
